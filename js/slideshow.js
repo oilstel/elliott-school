@@ -10,7 +10,6 @@ const images = [
     'ceramics.png',
     'maui-trip-april-22.jpg',
     'maui-trip-april-13.jpg',
-    'maui-trip-april-2.jpg',
     'apartment-box-39.jpg',
     'apartment-box-30.jpg',
     'apartment-box-18.jpg',
