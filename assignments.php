@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Resources</title>
+        <title>Assignments – Elliott School</title>
         <?php include './partials/_meta.php'; ?>
     </head>
         

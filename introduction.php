@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Elliott Cost</title>
+        <title>Introduction - Elliott School</title>
         <?php include './partials/_meta.php'; ?>
     </head>
         
