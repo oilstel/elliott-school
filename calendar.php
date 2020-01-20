@@ -14,6 +14,11 @@
                     <h2>Calendar</h2>
                     <span class="hw">Homework</span><span class="assignment">Assignments</span><span class="workshop">Workshop</span>
                 </section>
+                <!--
+                    Add blurry story.
+                    Something on the lens.
+                    A website with a blurry watermark that changes focus on hover.
+                -->
                 <section>
                     <h3>Day 1 (1/24)</h3>
 
