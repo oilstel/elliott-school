@@ -24,7 +24,7 @@
                             <li><a>Gardener</a></li>
                         </ol>
 
-                        <p><em>Please refer to the <a>calendar</a> for assignment due dates.</em></p>
+                        <p><em>Please refer to the <a href="./calendar.php">calendar</a> for assignment due dates.</em></p>
                     </section>
 
                     <section>
@@ -32,28 +32,28 @@
     
                         <p><em>HTML, CSS, writing on the web</em></p>
 
-                        <p>Customize the HTML profile that we cloned from <a href="">this repo</a href="">. You should only change the content of your profile. Don't alter the design or it. We want to keep the profiles consistent to create our own class social network. Browse all <a href="">our profiles here</a> and find a piece of writing that interests you. Create a new comment/entry on your profile referencing a fellow student's writing. Keep the writing positive and add a link back to their profile.</p>
+                        <p>Customize the HTML profile that we cloned from <a href="">this repo</a href="">. You should only change the content of your profile. Don't alter the design or it. We want to keep the profiles consistent to create our own static social network for the class. Browse all <a href="">our profiles here</a> and find a piece of writing that interests you. Create a new comment/entry on your profile referencing a fellow student's writing. Keep the writing positive and link back to their profile.</p>
 
-                        <p>Use the blockquote element to reference another profile...</p>
+                        <p>Use the <code>blockquote</code> HTML element to quote another profile...</p>
                         
-                        <code>&lt;blockquote&gt;Fellow student's writing...&lt;/blockquote&gt;</code>
+                        <pre>&lt;blockquote&gt;Fellow student's writing...&lt;/blockquote&gt;</pre>
                     </section>
 
                     <section>
                         <h2>Assignment 2: Calendar</h2>
     
-                        <p><em>CSS, grid layout, time-based website</em></p>
+                        <p><em>CSS grid, time-based website, writing on the web</em></p>
         
-                        <p>Create a calendar using CSS grid. Play around with different grid layouts to make it flexible to the browser's width. Style your calendar and add at least three past events as subpages. These subpages should link back to the calendar. It's up to you what lives on these pages. You can post writing, images, video, or sound. If you are ambitious, you could try to use your calendar as a social media replacement. Your calendar will grow over the course of the semester as you learn more coding!</p>
+                        <p>Create a calendar using CSS grid. Play around with different grid layouts to make it flexible to the browser's width. Style your calendar and add at least three past events as subpages. These subpages should link back to the calendar. It's up to you what lives on these pages. You can post writing, images, video, or sound. Make sure to compress your files for web. If you are ambitious, you could try to use this calendar as a social media alternative. Your calendar should grow over the course of the semester as you learn more coding.</p>
 
                         <h3>A successful calendar should address these questions...</h3>
 
                         <ul>
-                            <li>How will users know that an event falls on a particular day? You could convey this through basic HTML or CSS pseudo-elements like ::before or ::after. Experiment with CSS shapes. Please don't use images as icons.</li>
-                            <li>The calendar should use Grid and only scroll on the Y axis. How can you structure your grid layout using repeat and minmax so that it works seamlessly on desktop and mobile?</li>
+                            <li>How will users know that an event falls on a particular day? You could convey this through basic HTML or CSS pseudo-elements like <code>::before</code> or <code>::after</code>. Experiment with CSS shapes. Please don't use images or found icons to do this.</li>
+                            <li>The calendar should use CSS grid and only scroll on the Y axis. How can you structure your grid layout using <code>repeat</code> and <code>minmax</code> so that it works seamlessly on desktop and mobile?</li>
                         </ul>
         
-                        <p>By the end of the course your calendar should have at least 30 subpages.</p>
+                        <p><span class="important">By the end of the course your calendar should have at least 30 subpages.</span></p>
         
                         <h3>Resources</h3>
         
@@ -61,14 +61,14 @@
                             <a href="https://www.youtube.com/watch?v=tFKrK4eAiUQ">Easy Layouts with CSS Grid by Jen Simmons</a><br />
                         </p>
 
-                        <code>grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))</code>
+                        <pre>grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))</pre>
         
                         <p>
                             <a href="https://www.youtube.com/watch?v=2zxWEeBkjk0">Auto-fit vs auto-fill by Rachel Andrew</a><br />
                         </p>
 
-                        <code>grid-template-columns: repeat(auto-fill, minmax(50px, 1fr))</code>
-                        <code>grid-template-columns: repeat(auto-fit, minmax(50px, 1fr))</code>
+                        <pre>grid-template-columns: repeat(auto-fill, minmax(50px, 1fr))</pre>
+                        <pre>grid-template-columns: repeat(auto-fit, minmax(50px, 1fr))</pre>
 
                         <h3>Credit</h3>
         
@@ -78,11 +78,11 @@
                     <section>
                         <h2>Assignment 3: 2 Screens</h2>
 
-                        <p><em>HTML, CSS Media Queries</em></p>
+                        <p><em>HTML, CSS Media Queries, breakpoints</em></p>
 
-                        <p>Create a website that displays different content when viewed on desktop and mobile. The user should have to browse your site on both devices at the same time to fully experience it.</p>
+                        <p>Create a website that displays different content when viewed on desktop and mobile. The user should browse your site on both devices at the same time to fully experience it.</p>
 
-                        <p>Example: a website that displays images on mobile and text on desktop. Feel free to use this as a starting point but you are expected to go beyond this example.</p>
+                        <p><em>Example: a website that displays images on mobile and text on desktop. Feel free to use this as a starting point but you are expected to go beyond this example.</em></p>
 
                         <h3>Resources</h3>
 
@@ -93,6 +93,12 @@
 
                     <section>
                         <h2>Coding from Life</h2>
+
+                        <p>How do websites exist in the real world? The purpose of this assignment is to get you to think about websites 
+
+                        How can we make websites that are grounded in the real world? Web design often takes place in sterial enviorments that have little to do with everyday experiences. How can we move design on the web towards a more accesssible and relatable place?
+
+                        One way we can achieve this is by observing the world around us. What can we learn from nature? What can we learn from built enviorments? Is a website like a building?
 
                         <p><em>HTML, CSS, drawing</em></p>
 

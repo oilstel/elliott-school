@@ -7,7 +7,7 @@ const texts = [
     'Soft voices'
 ]
 
-const byline = document.querySelector('#title em');
+const byline = document.querySelector('#byline');
 
 (() => byline.innerText = random(texts))()
 
