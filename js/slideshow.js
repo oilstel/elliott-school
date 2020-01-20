@@ -5,7 +5,22 @@ const images = [
     'relax.png',
     'island.png',
     'spiral.png',
-    'information.png'
+    'information.png',
+    'uno-12.jpg',
+    'sasaki-garden.jpg',
+    'maui-trip-april-22.jpg',
+    'maui-trip-april-15.jpg',
+    'maui-trip-april-13.jpg',
+    'maui-trip-april-2.jpg',
+    'maui-trip-april-27.jpg',
+    'happy-hacker-keyboard.jpg',
+    'inflatable-earth-ball.jpg',
+    'felt-laptop-case.jpg',
+    'figs-and-plank-on-stool.jpg',
+    'apartment-box-39.jpg',
+    'apartment-box-30.jpg',
+    'apartment-box-18.jpg',
+    'apartment-box-24.jpg'
 ]
 const button = document.querySelector('#alive-button');
 const slideshow = document.querySelector('.slideshow');
