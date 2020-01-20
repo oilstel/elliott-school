@@ -4,7 +4,7 @@ const texts = [
     'I hear the New York City traffic',
     'An island far away in the sea',
     'It\'s spring again',
-    '🍃🌀'
+    'Soft voices'
 ]
 
 const byline = document.querySelector('#title em');
