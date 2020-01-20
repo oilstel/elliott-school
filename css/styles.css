@@ -80,7 +80,7 @@ header {
     /* margin: 20px 0; */
 }
 a#logo {
-    background-image: url('../images/e-2.svg');
+    background-image: url('../images/e.svg');
     background-size: 100% 100%;
     display: inline-block;
     width: 78px;
@@ -197,7 +197,7 @@ ol li:nth-child(12) a {background-color: var(--color16);}
     position: relative;
 }
 .slideshow .e {
-    background-image: url('../images/e-2.svg');
+    background-image: url('../images/e.svg');
     background-size: 100% 100%;
     width: 300px;
     height: 300px;

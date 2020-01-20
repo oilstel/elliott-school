@@ -1,4 +1,4 @@
-const path = '../images/slideshow/'
+const path = 'http://image.elliott.computer/'
 const images = [
     'teshima.png',
     'device.png',

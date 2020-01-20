@@ -15,7 +15,7 @@
 
                     <p>Finish your HTML Profile for next week. More information here.</p>
                 </section>
-                <section class="slideshow" style="background-image: url('./images/slideshow/relax.png');">
+                <section class="slideshow">
                     <div class="text e">
                         <span id="slideshow-text">Hello and welcome</span>
                     </div>
