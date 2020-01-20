@@ -4,7 +4,8 @@ const texts = [
     'I hear the New York City traffic',
     'An island far away in the sea',
     'It\'s spring again',
-    'Soft voices'
+    'Soft voices',
+    '2020 vision'
 ]
 
 const byline = document.querySelector('#byline');
