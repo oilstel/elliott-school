@@ -131,6 +131,7 @@ main {
     max-width: 600px;
     background: var(--paper-color);
     border-radius: 3px;
+    overflow: hidden;
 }
 section {
     border-bottom: 1px solid var(--color1);
@@ -204,13 +205,35 @@ ol li:nth-child(12) a {background-color: var(--color16);}
 
 /* Slideshow */
 .slideshow {
-    background-size: cover;
-    background-position: center center;
+    /* background-size: cover;
+    background-position: center center; */
     height: 500px;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
+    /* filter: blur(20px);
+    clip-path: inset(20px); */
+    transition: filter 3s;
+    background: transparent;
+}
+.slideshow .mask {
+    clip-path: inset(10px);
+    position: absolute;
+    top: -10px;
+    bottom: -10px;
+    left: -10px;
+    right: -10px;
+}
+.slideshow .bg-image {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-size: cover;
+    background-position: center center;
+    transition: filter 4s;
 }
 .slideshow .e {
     background-image: url('../images/e.svg');
@@ -218,27 +241,44 @@ ol li:nth-child(12) a {background-color: var(--color16);}
     width: 300px;
     height: 300px;
     filter: blur(10px);
-    transition: filter 3s;
+    transition: filter 2s;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
 }
 .slideshow .text {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     color: #fff;
     text-shadow: 0 0 6px var(--color1);
     font-style: italic;
     text-align: center;
     font-size: 200%;
+    filter: blur(10px);
+    transition: filter 2s;
+    z-index: 1;
 }
-.slideshow:hover .e {
-    filter: blur(0px);
+.slideshow:hover .bg-image {
+    filter: blur(8px);
+    transition: filter 3s;
+}
+.slideshow:hover .e  {
+    filter: blur(3.5px);
     transition: filter 1s;
+}
+.slideshow:hover .text  {
+    filter: blur(0px);
+    transition: filter 2s;
 }
 .slideshow #controls {
     position: absolute;
     bottom: 10px;
     right: 10px;
+    z-index: 1;
 }
 .selected {
     color: var(--bg-color);

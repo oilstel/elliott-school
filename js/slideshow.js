@@ -20,11 +20,12 @@ const images = [
     'apples.png'
 ]
 const button = document.querySelector('#alive-button');
-const slideshow = document.querySelector('.slideshow');
-const slideshowText = document.querySelector('#slideshow-text');
+const slideshow = document.querySelector('.bg-image');
+const slideshowText = document.querySelector('.text');
 
 (() => {
     byline.innerText = random(texts);
+    slideshowText.innerText = random(texts);
     slideshow.style.cssText = `background-image: url('${path + random(images)}');`;
 })()
 

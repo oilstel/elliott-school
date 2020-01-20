@@ -16,11 +16,13 @@
                     <p>Finish your HTML Profile for next week. More information here.</p>
                 </section>
                 <section class="slideshow">
-                    <div class="text e">
-                        <span id="slideshow-text">Hello and welcome</span>
-                    </div>
+                    <div class="e"></div>
+                    <div class="text">Hello and welcome</div>
                     <div id="controls">
                         <button id="alive-button">Alive Button</button>
+                    </div>
+                    <div class="mask">
+                        <div class="bg-image" style='background-image: url("http://image.elliott.computer/relax.png");'></div>
                     </div>
                 </section>
             </main>
