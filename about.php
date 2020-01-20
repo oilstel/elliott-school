@@ -18,9 +18,9 @@
                 <section>
                     <h2>Approaches</h2>
 
-                    <p>In this course we will look at past and current methods of designing and building websites. Through workshops and assignments we utilize built-in design features of the web, practice making websites that feel grounded in the medium of the Internet, and discuss/critique the current state of the web.
+                    <!-- <p>In this course we will look at past and current methods of designing and building websites. Through workshops and assignments we will utilize built-in design features of the web, practice making websites that feel grounded in the medium of the Internet, and discuss/critique the current state of the web.</p>
                         
-                    <p>Each assignment will be approached through a historical lens. Knowing your sources and building on what has become before is a crucial to any artistic medium. This is especially true when designing for the web. We will utilize the Internet Archive's Wayback Machine as a research tool and it is expected that you collect relavant sources before beginning each assignment. While current sources can be useful, it is more important to reference a technology or website from the past than a current trend. For example, if you are creating a website for sharing links with a small community of friends you could reference a project like <a href="https://en.wikipedia.org/wiki/Community_Memory">Community Memory</a>, 1973.</p>
+                    <p>Each assignment will be approached through a historical lens. Knowing your sources and building on what has become before is a crucial to any artistic medium. This is especially true when designing for the web. We will utilize the Internet Archive's Wayback Machine as a research tool and it is expected that you collect relavant sources before beginning each assignment. While current sources can be useful, it is more important to reference a technology or website from the past than a current trend. For example, if you are creating a website for sharing links with a small community of friends you could reference a project like <a href="https://en.wikipedia.org/wiki/Community_Memory">Community Memory</a>, 1973.</p> -->
                 </section>
             </main>
 
