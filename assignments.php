@@ -94,11 +94,11 @@
                     <section>
                         <h2>Coding from Life</h2>
 
-                        <p>How do websites exist in the real world? The purpose of this assignment is to get you to think about websites 
+                        <!-- <p>How do websites exist in the real world? The purpose of this assignment is to get you to think about websites 
 
                         How can we make websites that are grounded in the real world? Web design often takes place in sterial enviorments that have little to do with everyday experiences. How can we move design on the web towards a more accesssible and relatable place?
 
-                        One way we can achieve this is by observing the world around us. What can we learn from nature? What can we learn from built enviorments? Is a website like a building?
+                        One way we can achieve this is by observing the world around us. What can we learn from nature? What can we learn from built enviorments? Is a website like a building? -->
 
                         <p><em>HTML, CSS, drawing</em></p>
 
