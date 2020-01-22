@@ -13,7 +13,7 @@
                 <section class="highlight">
                     <h2>Upcoming</h2>
 
-                    <p>Finish your HTML Profile for next week. More information here.</p>
+                    <p>Finish your HTML Profile for next week. More information <a href="assignments.php#1">here</a>.</p>
                 </section>
                 <section class="slideshow">
                     <div class="e"></div>

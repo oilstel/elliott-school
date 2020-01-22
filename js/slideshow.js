@@ -17,7 +17,8 @@ const images = [
     'train-field.png',
     'sky-coin.png',
     'horses.png',
-    'apples.png'
+    'apples.png',
+    'my-office.png'
 ]
 const button = document.querySelector('#alive-button');
 const slideshow = document.querySelector('.bg-image');
