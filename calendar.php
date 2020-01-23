@@ -43,7 +43,7 @@
                     <ul>
                         <li>Command line cheat sheet - <a href="https://github.com/melaniehoff/folderpoetry#commands-codes-spells">Commands Codes Spells</a> by Melanie Hoff (SFPC)</li>
                         <li><a href="https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh">Github SSH instructions</a></li>
-                        <li><a href="./text/git.txt">Git common commands</a></li>
+                        <li><a href="./text/git.txt">Common git commands</a></li>
                     <ul>
                 </section>
 
