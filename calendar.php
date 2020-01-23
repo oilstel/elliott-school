@@ -66,6 +66,7 @@
 
                     <ul>
                         <li>Another <a href="https://www.are.na/elliott-cost/calendars-1519832784">Calendars channel</a> on Are.na</li>
+                    </ul>
                 </section>
 
                 <section>
@@ -79,6 +80,12 @@
 
                     <ul class="next-week">
                         <li class="assignment"><a href="./assignments.php#2">Assignment 2</a> due next week on 2/14</li>
+                    </ul>
+
+                    <h3>Resources</h3>
+
+                    <ul>
+                        <li><a href="https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/">CSS Grid Gotchas And Stumbling Blocks</a> by Rachel Andrew</li>
                     </ul>
 
                 </section>
