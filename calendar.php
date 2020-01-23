@@ -50,23 +50,29 @@
                     <h3>Day 2 (1/31)</h3>
 
                     <ul>
+                        <li>Let's try our webring!</li>
                         <li>Structure: directories and paths, CSS and JS inline vs. includes.</li>
                         <li>HTML: skeleton, title, meta, headings, paragraphs, nesting.</li>
                         <li>CSS: Working with classes, IDs, pseudo elements, filters.</li>
-                        <li>Sign up for Are.na</li>
+                        <li>Sign up for <a href="https://www.are.na/">Are.na</a>. Share our are.na urls.</li>
                     </ul>
                     
                     <ul class="next-week">
-                        <li class="workshop">Create a Scoby page. Add a stylesheet!</li>
-                        <li class="hw">Upload 3 examples of old web calendars from the <a href="https://archive.org/web/">Wayback Machine</a> to <a href="">this Are.na channel</a href=""> for next class.</li>
+                        <li class="workshop">Create a <a href="https://scoby.page/">Scoby</a> page. Add a stylesheet!</li>
+                        <li class="hw">Upload 3 examples of old web calendars from the <a href="https://archive.org/web/">Wayback Machine</a> to <a href="">this Are.na channel</a href="https://www.are.na/elliott-cost/the-web-as-a-calendar"> for next class.</li>
                     </ul>
+
+                    <h3>Resources</h3>
+
+                    <ul>
+                        <li>Another <a href="https://www.are.na/elliott-cost/calendars-1519832784">Calendars channel</a> on Are.na</li>
                 </section>
 
                 <section>
                     <h3>Day 3 (2/7)</h3>
 
                     <ul>
-                        <li>Look at the example web calendars we found on the Wayback Machine</li>
+                        <li>Look at the <a href="https://www.are.na/elliott-cost/the-web-as-a-calendar">example web calendars</a> we found on the Wayback Machine</li>
                         <li>Intro to CSS grid and common page layouts</li>
                         <li>Begin work on our calendars (<a href="./assignments.php#2">Assignment 2</a>)</li>
                     </ul>
@@ -81,9 +87,9 @@
                     <h3>Day 4 (2/14)</h3>
 
                     <ul>
-                        <li>We will look at/discuss the calendars we made.</li>
+                        <li>We will look at/discuss the calendars we made. Please put them on Github.</li>
                         <li>CSS: Media queries</li>
-                        <li>Play with desktop / mobile. Create a site that displays different media on each screen.</li>
+                        <li>Introduce <a href="./assignments.php#3">Assignment 3</a> (2 Screens)</li>
                     </ul>
 
                     <ul class="next-week">
@@ -108,6 +114,11 @@
 
                     <ul>
                         <li>We will be showing/critiquing our <a href="./assignments.php#3">Assignment 3</a> sites.</li>
+                        <li>Explain watermark homework</li>
+                    </ul>
+
+                    <ul class="next-week">
+                        <li class="hw">Create a watermark SVG logo for our next assignment.</li>
                     </ul>
                 </section>
 
@@ -116,8 +127,7 @@
 
                     <ul>
                         <li>JavaScript: Variables, arrays, objects, functions, timing</li>
-                        <li>Introduce next Blurry Story (<a href="./assignments.php#4">Assignment 4</a>)</li>
-                        <li>Create a watermark SVG logo for our blurry stories.</li>
+                        <li>Introduce next <a href="./assignments.php#4">Assignment 4</a> (Blurry Story)</li>
                     </ul>
 
                     <ul class="next-week">
@@ -153,16 +163,27 @@
 
                 <section>
                     <h3>Day 11 (4/11)</h3>
+                    <ul>
+                        <li>CSS: print stylesheets</li>
+                        <li>In class work on Assignment 5</li>
+                    </ul>
 
                     <ul class="next-week">
-                        <li class="assignment"><a href="./assignments.php#5">Assignment 5</a> due on 3/28</li>
+                        <li class="assignment"><a href="./assignments.php#5">Assignment 5</a> due 4/18</li>
                     </ul>
                 </section>
 
                 <section>
                     <h3>Day 12 (4/18)</h3>
 
-                    <p>Workshop TBA</p>
+                    <ul>
+                        <li><a href="./assignments.php#5">Assignment 5</a> critique</li>
+                        <li>Introduce <a href="./assignments.php#6">Assignment 6</a></li>
+                    </ul>
+
+                    <ul class="next-week">
+                        <li class="assignment"><a href="./assignments.php#6">Assignment 6</a> due 5/2</li>
+                    </ul>
                 </section>
 
                 <section>
@@ -178,7 +199,7 @@
                     <h3>Day 14 (5/2)</h3>
 
                     <ul>
-                        <li><a href="./assignments.php#5">Assignment 6</a> critique</li>
+                        <li><a href="./assignments.php#6">Assignment 6</a> critique</li>
                     </ul>
                 </section>
 
