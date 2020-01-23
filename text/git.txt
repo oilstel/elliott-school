@@ -1,9 +1,9 @@
 #### GIT COMMON COMMANDS ####
 
-# Show hidden files on OSX. Relaunch Finder
+# Show hidden files on OS X. Make sure to relaunch the finder after to running this.
 defaults write com.apple.finder AppleShowAllFiles YES
 
-# Initialize a new git (make sure you are in your project folder when you run this)
+# Initialize a new git repo (make sure you are in your project folder when you run this)
 git init
 
 # Add all new/changed files to git staging
@@ -13,7 +13,7 @@ git add .
 git commit -m "first commit"
 
 # Push your commit
-git Push
+git push
 
 # Pull a commit from Github.com repo
 git pull
@@ -21,7 +21,10 @@ git pull
 #### GIT BRANCHES ####
 
 # Create a new branch
-git checkout your-branch-name
+git checkout -b new-branch-name
 
-# List current branch / all local branches
+# List current branch/all local branches
 git branch
+
+# Switch to a branch
+git checkout branch-name
