@@ -24,7 +24,7 @@
                             <li><a>Gardener</a></li>
                         </ol>
 
-                        <p><em>Please refer to the <a href="./calendar.php">calendar</a> for assignment due dates.</em></p>
+                        <p><em>Please refer to the <a href="./calendar">calendar</a> for assignment due dates.</em></p>
                     </section>
 
                     <section id="1">

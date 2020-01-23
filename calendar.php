@@ -35,7 +35,7 @@
                     <p>Find a list of all <a href="https://paper.dropbox.com/doc/HTML-Profile-URLs--As261tdZRcBpKW2AyO0jxLXVAQ-J4aEU1RFPc6aWK4x9pYpk">our Github pages here</a>.</p>
 
                     <ul class="next-week">
-                        <li class="assignment"><a href="./assignments.php#1">Assignment 1</a> due next week on 1/31.<li>
+                        <li class="assignment"><a href="./assignments#1">Assignment 1</a> due next week on 1/31.<li>
                     </ul>
 
                     <h3>Resources</h3>
@@ -75,11 +75,11 @@
                     <ul>
                         <li>Look at the <a href="https://www.are.na/elliott-cost/the-web-as-a-calendar">example web calendars</a> we found on the Wayback Machine</li>
                         <li>Intro to CSS grid and common page layouts</li>
-                        <li>Begin work on our calendars (<a href="./assignments.php#2">Assignment 2</a>)</li>
+                        <li>Begin work on our calendars (<a href="./assignments#2">Assignment 2</a>)</li>
                     </ul>
 
                     <ul class="next-week">
-                        <li class="assignment"><a href="./assignments.php#2">Assignment 2</a> due next week on 2/14</li>
+                        <li class="assignment"><a href="./assignments#2">Assignment 2</a> due next week on 2/14</li>
                     </ul>
 
                     <h3>Resources</h3>
@@ -96,13 +96,13 @@
                     <ul>
                         <li>We will look at/discuss the calendars we made. Please put them on Github.</li>
                         <li>CSS: Media queries</li>
-                        <li>Introduce <a href="./assignments.php#3">Assignment 3</a> (2 Screens)</li>
+                        <li>Introduce <a href="./assignments#3">Assignment 3</a> (2 Screens)</li>
                     </ul>
 
                     <ul class="next-week">
                         <li class="hw">Add media queries to your calendar to make them responsive</li>
-                        <li class="hw">Start on <a href="./assignments.php#3">Assignment 3</a>. You should be able to explain concept and show actual code next week.</li>
-                        <li class="assignment"><a href="./assignments.php#3">Assignment 3</a> due on 2/28</li>
+                        <li class="hw">Start on <a href="./assignments#3">Assignment 3</a>. You should be able to explain concept and show actual code next week.</li>
+                        <li class="assignment"><a href="./assignments#3">Assignment 3</a> due on 2/28</li>
                     </ul>
                 </section>
 
@@ -110,7 +110,7 @@
                     <h3>Day 5 (2/21)</h3>
 
                     <ul>
-                        <li>In-class work on <a href="./assignments.php#3">Assignment 3</a>.</li>
+                        <li>In-class work on <a href="./assignments#3">Assignment 3</a>.</li>
                         <li>I will try to meet with you all about your projects so you should have some code to show me by this class.</li>
                     </ul>
 
@@ -120,7 +120,7 @@
                     <h3>Day 6 (2/28)</h3>
 
                     <ul>
-                        <li>We will be showing/critiquing our <a href="./assignments.php#3">Assignment 3</a> sites.</li>
+                        <li>We will be showing/critiquing our <a href="./assignments#3">Assignment 3</a> sites.</li>
                         <li>Explain watermark homework</li>
                     </ul>
 
@@ -134,11 +134,11 @@
 
                     <ul>
                         <li>JavaScript: Variables, arrays, objects, functions, timing</li>
-                        <li>Introduce next <a href="./assignments.php#4">Assignment 4</a> (Blurry Story)</li>
+                        <li>Introduce next <a href="./assignments#4">Assignment 4</a> (Blurry Story)</li>
                     </ul>
 
                     <ul class="next-week">
-                        <li class="assignment"><a href="./assignments.php#4">Assignment 4</a> due on 3/28</li>
+                        <li class="assignment"><a href="./assignments#4">Assignment 4</a> due on 3/28</li>
                     </ul>
                 </section>
 
@@ -147,7 +147,7 @@
 
                     <ul>
                         <li>CSS: Filters</li>
-                        <li>In class work on <a href="./assignments.php#4">Assignment 4</a></li>
+                        <li>In class work on <a href="./assignments#4">Assignment 4</a></li>
                     </ul>
                 </section>
 
@@ -155,7 +155,7 @@
                     <h3>Day 9 (3/28)</h3>
 
                     <ul>
-                        <li><a href="./assignments.php#4">Assignment 4</a> critique</li>
+                        <li><a href="./assignments#4">Assignment 4</a> critique</li>
                     </ul>
                 </section>
 
@@ -176,7 +176,7 @@
                     </ul>
 
                     <ul class="next-week">
-                        <li class="assignment"><a href="./assignments.php#5">Assignment 5</a> due 4/18</li>
+                        <li class="assignment"><a href="./assignments#5">Assignment 5</a> due 4/18</li>
                     </ul>
                 </section>
 
@@ -184,12 +184,12 @@
                     <h3>Day 12 (4/18)</h3>
 
                     <ul>
-                        <li><a href="./assignments.php#5">Assignment 5</a> critique</li>
-                        <li>Introduce <a href="./assignments.php#6">Assignment 6</a></li>
+                        <li><a href="./assignments#5">Assignment 5</a> critique</li>
+                        <li>Introduce <a href="./assignments#6">Assignment 6</a></li>
                     </ul>
 
                     <ul class="next-week">
-                        <li class="assignment"><a href="./assignments.php#6">Assignment 6</a> due 5/2</li>
+                        <li class="assignment"><a href="./assignments#6">Assignment 6</a> due 5/2</li>
                     </ul>
                 </section>
 
@@ -197,7 +197,7 @@
                     <h3>Day 13 (4/25)</h3>
 
                     <ul>
-                        <li>In class work on <a href="./assignments.php#5">Assignment 6</a></li>
+                        <li>In class work on <a href="./assignments#5">Assignment 6</a></li>
                         <li>I will try to meet with you all about your projects so you should have some code to show me by this class.</li>
                     </ul>
                 </section>
@@ -206,7 +206,7 @@
                     <h3>Day 14 (5/2)</h3>
 
                     <ul>
-                        <li><a href="./assignments.php#6">Assignment 6</a> critique</li>
+                        <li><a href="./assignments#6">Assignment 6</a> critique</li>
                     </ul>
                 </section>
 
