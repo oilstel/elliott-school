@@ -34,7 +34,7 @@
 
                         <p>Customize the HTML profile that we cloned from <a href="https://github.com/oilstel/html-profile">this repo</a href="">. You should only change the content of your profile. Don't alter the design. We want to keep our profiles consistent to create a static social network for the class. Browse all <a href="https://paper.dropbox.com/doc/HTML-Profile-URLs--As261tdZRcBpKW2AyO0jxLXVAQ-J4aEU1RFPc6aWK4x9pYpk">our profiles here</a> and find a piece of writing that interests you. Create a new comment/entry on your profile referencing a fellow student's writing. Keep the writing positive and link back to their profile.</p>
 
-                        <p>Also make sure your webring works if we don't finish this part in class.</p>
+                        <p>Also make sure your webring works if we don't finish it in class.</p>
 
                         <h3>Code</h3>
 
@@ -104,7 +104,7 @@
 
                         <h3>Things to note...</h3>
 
-                        <p>CSS filters often can be CPU intensive when combined with transitions or Javascript. How can we convey our blurry story without the experience feeling sluggish? Try to give yourself some working constraints before starting.</p>
+                        <p>CSS filters often can be CPU intensive when combined with transitions or JavaScript. How can we convey our blurry story without the experience feeling sluggish? Try to give yourself some working constraints before starting.</p>
 
                         <h3>Code</h3>
                                                 
@@ -116,7 +116,7 @@
     
                         <p><em>HTML, CSS, JavaScript writing on the web</em></p>
 
-                        <p>Create a print.css stylesheet for an existing website. Work through several iterations of your print design and print them as you go. You should have 4 prints showing your design progression to show us.</p>
+                        <p>Create a print.css stylesheet for an existing website. Work through several iterations of your design and print them as you go. You should have at least 4 prints showing your design process to show us.</p>
                     </section>
 
                     <section id="6">
@@ -124,9 +124,9 @@
     
                         <p><em>HTML, CSS, JavaScript writing on the web</em></p>
 
-                        <p>What does it mean to take care of a website? Many websites have secret gardeners, caretakers, or stewards. In the first part of this assignment you will reach out to a website gardener. Someone behind the scenes that keeps the site oiled and is on site if something breaks. Website gardeners shouldn't be in the limelight. Conduct a short interview with them about their day to day tasks and how they update the website. Create a static site of your interview.</p>
+                        <p>What does it mean to take care of a website? Many websites have secret gardeners, caretakers, or stewards. In the first part of this assignment you will reach out to a website maintainer (gardener). Someone behind the scenes that keeps the site oiled and is on site if something breaks. Website gardeners shouldn't be in the limelight. Conduct a short interview with them about their day to day tasks and how they update the website. Create a static site of your interview.</p>
 
-                        <p>In the next part of this assignment you will create a website for a community garden in NYC. Did you know there are over 550 community gardens in NYC? You will conduct a site visit to your assigned garden and document your findings. It is up to you how you approach this project but you are expected to keep/show process work. For the final presentation you will present your process work and the final website you created.</p>
+                        <p>In the next part of this assignment you will create a website for a community garden in NYC. Did you know there are over 550 community gardens in NYC? Conduct a site visit to your assigned garden and document your findings. It is up to you how you approach this project but you are expected to keep/show process work. For the final presentation you will present your process work and the final website you created.</p>
                     </section>
             </main>
         </div>

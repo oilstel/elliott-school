@@ -169,7 +169,7 @@
                     <h3>Day 13 (4/25)</h3>
 
                     <ul>
-                        <li>In class work on <a href="./assignments.php#5">Assignment 5</a></li>
+                        <li>In class work on <a href="./assignments.php#5">Assignment 6</a></li>
                         <li>I will try to meet with you all about your projects so you should have some code to show me by this class.</li>
                     </ul>
                 </section>
@@ -178,7 +178,7 @@
                     <h3>Day 14 (5/2)</h3>
 
                     <ul>
-                        <li><a href="./assignments.php#5">Assignment 5</a> critique</li>
+                        <li><a href="./assignments.php#5">Assignment 6</a> critique</li>
                     </ul>
                 </section>
 
