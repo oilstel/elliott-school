@@ -23,13 +23,13 @@
                     <h3>Day 1 (1/24)</h3>
 
                     <ul>
-                        <li>Intro and history of HTML</li>
+                        <li>HTML refresher</li>
+                        <li>Command line basics</li>
                         <li>Sign up for Github</li>
                         <li>Intro to Git and Github</li>
                         <li>Clone HTML profile template and begin filling out our profiles. Repo <a href="https://github.com/oilstel/html-profile">available here</a>.</li>
                         <li>Share our Github URLs in <a href="https://paper.dropbox.com/doc/HTML-Profile-URLs--As261tdZRcBpKW2AyO0jxLXVAQ-J4aEU1RFPc6aWK4x9pYpk">this spreadsheet</a>.</li>
                         <li>Discuss <a href="https://en.wikipedia.org/wiki/Webring">webrings</a> for assignment.</li>
-                        <li>Discuss watermarks for homework.</li>
                     </ul>
 
                     <p>Find a list of all <a href="https://paper.dropbox.com/doc/HTML-Profile-URLs--As261tdZRcBpKW2AyO0jxLXVAQ-J4aEU1RFPc6aWK4x9pYpk">our Github pages here</a>.</p>
@@ -37,6 +37,13 @@
                     <ul class="next-week">
                         <li class="assignment"><a href="./assignments.php#1">Assignment 1</a> due next week on 1/31.<li>
                     </ul>
+
+                    <h3>Resources</h3>
+                    
+                    <ul>
+                        <li>Command line cheat sheet - <a href="https://github.com/melaniehoff/folderpoetry#commands-codes-spells">Commands Codes Spells</a> by Melanie Hoff (SFPC)</li>
+                        <li><a href="https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh">Github SSH instructions</a></li>
+                    <ul>
                 </section>
 
                 <section>
