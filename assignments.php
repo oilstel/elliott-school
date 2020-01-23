@@ -19,8 +19,8 @@
                             <li><a>2 Screens</a></li>
                             <li><a>Blurry Story</a></li>
                             <li><a>Print.css</a></li>
-                            <!-- <li><a>Wayback Machine</a></li>
-                            <li><a>Mural</a></li> -->
+                            <!-- <li><a>Wayback Machine</a></li> -->
+                            <!-- <li><a>Mural</a></li> -->
                             <li><a>Gardener</a></li>
                         </ol>
 
