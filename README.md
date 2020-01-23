@@ -4,7 +4,7 @@ The class website for elliott.school.
 
 ## Running this website
 
-Use MAMP to run a apache server on a local port. Create a .htaccess file with the following rewrite to cover .php file endings.
+Use MAMP to run an Apache server on a local port. Create a .htaccess file with the following rewrite to cover .php file endings.
 
 ```
 RewriteEngine On
