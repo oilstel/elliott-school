@@ -28,8 +28,7 @@
                         <li>Sign up for Github</li>
                         <li>Intro to Git and Github</li>
                         <li>Clone HTML profile template and begin filling out our profiles. Repo <a href="https://github.com/oilstel/html-profile">available here</a>.</li>
-                        <li>Share our Github URLs in <a href="https://paper.dropbox.com/doc/HTML-Profile-URLs--As261tdZRcBpKW2AyO0jxLXVAQ-J4aEU1RFPc6aWK4x9pYpk">this spreadsheet</a>.</li>
-                        <li>Discuss <a href="https://en.wikipedia.org/wiki/Webring">webrings</a> for assignment.</li>
+                        <li>Share our Github URLs in <a href="https://paper.dropbox.com/doc/HTML-Profile-URLs--As261tdZRcBpKW2AyO0jxLXVAQ-J4aEU1RFPc6aWK4x9pYpk">this doc</a>.</li>
                     </ul>
 
                     <p>Find a list of all <a href="https://paper.dropbox.com/doc/HTML-Profile-URLs--As261tdZRcBpKW2AyO0jxLXVAQ-J4aEU1RFPc6aWK4x9pYpk">our Github pages here</a>.</p>
@@ -44,6 +43,8 @@
                         <li>Command line cheat sheet - <a href="https://github.com/melaniehoff/folderpoetry#commands-codes-spells">Commands Codes Spells</a> by Melanie Hoff (SFPC)</li>
                         <li><a href="https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh">Github SSH instructions</a></li>
                         <li><a href="./text/git.txt">Common git commands</a></li>
+                        <li><a href="https://marketplace.visualstudio.com/items?itemName=jzmstrjp.color-the-tag-name">VS Code Extension - Color the tag name</a></li>
+                        <li><a href="https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap">VS Code Extension - HTML Tag Wrap</a></li>
                     <ul>
                 </section>
 
@@ -51,7 +52,8 @@
                     <h3>Day 2 (1/31)</h3>
 
                     <ul>
-                        <li>Let's try our webring!</li>
+                        <li>Discuss <a href="https://en.wikipedia.org/wiki/Webring">webrings</a>.</li>
+                        <li>Let's make our webring!</li>
                         <li>Structure: directories and paths, CSS and JS inline vs. includes.</li>
                         <li>HTML: skeleton, title, meta, headings, paragraphs, nesting.</li>
                         <li>CSS: Working with classes, IDs, pseudo elements, filters.</li>
