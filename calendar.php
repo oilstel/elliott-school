@@ -64,7 +64,7 @@
                     <ul class="next-week">
                         <!-- <li class="workshop">Create a <a href="https://scoby.page/">Scoby</a> page. Add a stylesheet!</li> -->
                         <li class="hw">Finish filling out your html profile from the first class. Please make sure to push it to your Github page.</li>
-                        <li class="hw">Upload 3 examples of old web calendars from the <a href="https://archive.org/web/">Wayback Machine</a> to <a href="">this Are.na channel</a href="https://www.are.na/elliott-cost/the-web-as-a-calendar"> for next class.</li>
+                        <li class="hw">Upload 3 examples of old web calendars from the <a href="https://archive.org/web/">Wayback Machine</a> to <a href="https://www.are.na/elliott-cost/the-web-as-a-calendar">this Are.na channel</a></li>
                     </ul>
 
                     <h3>Resources</h3>
