@@ -34,7 +34,7 @@
                     <p>Find a list of all <a href="https://paper.dropbox.com/doc/HTML-Profile-URLs--As261tdZRcBpKW2AyO0jxLXVAQ-J4aEU1RFPc6aWK4x9pYpk">our Github pages here</a>.</p>
 
                     <ul class="next-week">
-                        <li class="assignment"><a href="./assignments#1">Assignment 1</a> due next week on 1/31.<li>
+                        <li class="assignment">Fill out your HTML profile's we started in class (<a href="./assignments#1">Assignment 1</a>).<li>
                     </ul>
 
                     <h3>Resources</h3>
@@ -52,16 +52,18 @@
                     <h3>Day 2 (1/31)</h3>
 
                     <ul>
+                        <li>HTML refresher continued... skeleton, title, meta, headings, paragraphs, nesting.</li>
+                        <li>Menu workshop</li>
                         <li>Discuss <a href="https://en.wikipedia.org/wiki/Webring">webrings</a>.</li>
                         <li>Let's make our webring!</li>
-                        <li>Structure: directories and paths, CSS and JS inline vs. includes.</li>
-                        <li>HTML: skeleton, title, meta, headings, paragraphs, nesting.</li>
-                        <li>CSS: Working with classes, IDs, pseudo elements, filters.</li>
+                        <!-- <li>Structure: directories and paths, CSS and JS inline vs. includes.</li> -->
+                        <!-- <li>CSS: Working with classes, IDs, pseudo elements, filters.</li> -->
                         <li>Sign up for <a href="https://www.are.na/">Are.na</a>. Share our are.na urls.</li>
                     </ul>
                     
                     <ul class="next-week">
-                        <li class="workshop">Create a <a href="https://scoby.page/">Scoby</a> page. Add a stylesheet!</li>
+                        <!-- <li class="workshop">Create a <a href="https://scoby.page/">Scoby</a> page. Add a stylesheet!</li> -->
+                        <li class="hw">Finish filling out your html profile from the first class. Please make sure to push it to your Github page.</li>
                         <li class="hw">Upload 3 examples of old web calendars from the <a href="https://archive.org/web/">Wayback Machine</a> to <a href="">this Are.na channel</a href="https://www.are.na/elliott-cost/the-web-as-a-calendar"> for next class.</li>
                     </ul>
 
