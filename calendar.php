@@ -93,7 +93,7 @@
 
                     <ul>
                         <li><a href="https://docs.google.com/presentation/d/1Ewj1cvT-LI0927hnbbwzlakKp9ADbDusn22tTfV_jds/edit?usp=sharing">CSS Grid slides from today</li>
-                        <li><a href="https://docs.google.com/presentation/d/1Ewj1cvT-LI0927hnbbwzlakKp9ADbDusn22tTfV_jds/edit?usp=sharing">CSS Media Query slides from today</li>
+                        <li><a href="https://docs.google.com/presentation/d/1ol8k4sgNxv2tLodcYfY-I3cajIqGXDYSnLssTztCHns/edit?usp=sharing">CSS Media Query slides from today</li>
                         <li><a href="https://codepen.io/oilstel/pen/GRJRjwB?editors=1100">Grid demo from today</li>
                         <li><a href="https://codepen.io/oilstel/pen/abOzdNo">Media query demo from today</li>
                         <li><a href="https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/">CSS Grid Gotchas And Stumbling Blocks</a> by Rachel Andrew</li>
