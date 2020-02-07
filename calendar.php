@@ -78,8 +78,10 @@
                     <h3>Day 3 (2/7)</h3>
 
                     <ul>
-                        <li>Look at the <a href="https://www.are.na/elliott-cost/the-web-as-a-calendar">example web calendars</a> we found on the Wayback Machine</li>
+                        <!-- <li>Look at the <a href="https://www.are.na/elliott-cost/the-web-as-a-calendar">example web calendars</a> we found on the Wayback Machine</li> -->
                         <li>Intro to CSS grid and common page layouts</li>
+                        <li>Media queries</li>
+                        
                         <li>Begin work on our calendars (<a href="./assignments#2">Assignment 2</a>)</li>
                     </ul>
 
