@@ -14,7 +14,7 @@
                         <p>This course will be made up of several assignments supported by in-class workshops.</p>
 
                         <ol id="assignments-list">
-                            <li><a>HTML Profile</a></li>
+                            <li>✓ <a>HTML Profile</a></li>
                             <li><a>Calendar</a></li>
                             <li><a>2 Screens</a></li>
                             <li><a>Blurry Story</a></li>
