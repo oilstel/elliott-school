@@ -9,10 +9,10 @@
     <menu>
         <nav>
             <a href="./" <?php if ($current_url == "") { ?>class="current"<?php }; ?>>Home</a>
-            <a href="./calendar" <?php if ($current_url == "calendar") { ?>class="current"<?php }; ?>>Calendar</a>
-            <a href="./assignments" <?php if ($current_url == "assignments") { ?>class="current"<?php }; ?>>Assignments</a>
-            <a href="./people" <?php if ($current_url == "people") { ?>class="current"<?php }; ?>>People</a>
-            <a href="./about" <?php if ($current_url == "about") { ?>class="current"<?php }; ?>>About</a>
+            <a href="./calendar.php" <?php if ($current_url == "calendar") { ?>class="current"<?php }; ?>>Calendar</a>
+            <a href="./assignments.php" <?php if ($current_url == "assignments") { ?>class="current"<?php }; ?>>Assignments</a>
+            <a href="./people.php" <?php if ($current_url == "people") { ?>class="current"<?php }; ?>>People</a>
+            <a href="./about.php" <?php if ($current_url == "about") { ?>class="current"<?php }; ?>>About</a>
         </nav>
         <div id="byline"></div>
     </menu>

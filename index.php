@@ -13,13 +13,13 @@
                 <section class="highlight">
                     <h2>Upcoming</h2>
 
-                    <p>Finish your <a href="assignments#2">calendars</a> for next class (2/14). Check the <a href="calendar">calendar</a> for more information..</p>
+                    <p>Finish your <a href="assignments.php#2">calendars</a> for next class (2/14). Check the <a href="calendar">calendar</a> for more information..</p>
                 </section>
                 <section class="slideshow">
                     <div class="e"></div>
                     <div class="text">Hello and welcome</div>
                     <div id="controls">
-                        <button id="alive-button">Alive Button</button>
+                        <button id="alive-button">Button</button>
                     </div>
                     <div class="mask">
                         <div class="bg-image" style='background-image: url("http://image.elliott.computer/relax.png");'></div>

@@ -9,16 +9,22 @@ const images = [
     'glow.png',
     'ceramics.png',
     'maui-trip-april-22.jpg',
-    'maui-trip-april-13.jpg',
-    'apartment-box-39.jpg',
-    'apartment-box-30.jpg',
+    // 'maui-trip-april-13.jpg',
+    // 'apartment-box-39.jpg',
+    // 'apartment-box-30.jpg',
     'apartment-box-18.jpg',
-    'apartment-box-24.jpg',
+    // 'apartment-box-24.jpg',
     'train-field.png',
-    'sky-coin.png',
-    'horses.png',
-    'apples.png',
-    'my-office.png'
+    // 'sky-coin.png',
+    // 'horses.png',
+    // 'apples.png',
+    'pear-window.jpg',
+    'chalkboard.jpg',
+    'query-small.jpg',
+    'query-large.jpg',
+    'html-pancake.jpg',
+    'fish-phone.jpg',
+    'open-to-public.jpg'
 ]
 const button = document.querySelector('#alive-button');
 const slideshow = document.querySelector('.bg-image');
@@ -35,8 +41,8 @@ function random(items) {
 }
 
 function changeText() {
-    // slideshow.style.cssText = `background-image: url('${path + random(images)}');`;
-    // console.log(slideshow);
+    slideshow.style.cssText = `background-image: url('${path + random(images)}');`;
+    console.log(slideshow);
 
     slideshowText.innerText = random(texts);
     byline.innerText = random(texts);
