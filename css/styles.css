@@ -291,6 +291,6 @@ ol li:nth-child(12) a {background-color: var(--color16);}
 }
 
 @media (max-width:600px) {
-    menu {grid-template-columns: 1fr;}
+    header, menu {grid-template-columns: 1fr;}
     #byline {text-align: left;}
 }
