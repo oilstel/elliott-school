@@ -106,6 +106,7 @@
 
                     <ul>
                         <li>We will look at/discuss the calendars we made. Please put them on Github.</li>
+                        <li>Add your calendar urls to <a href="https://paper.dropbox.com/doc/Calendars--AuUfdJOYIQZyqO8QYIz748AzAQ-R3qxPgrkQpgaAPk5z0zpj">this doc</a></li>
                         <li>CSS: Media queries</li>
                         <li>Introduce <a href="./assignments.php#3">Assignment 3</a> (2 Screens)</li>
                     </ul>
