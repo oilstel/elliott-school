@@ -120,10 +120,10 @@
                     <h3>Resources</h3>
 
                     <ul>
-                        <li><a href="https://docs.google.com/presentation/d/10Y6eYb-F9pYZvnJ9T4k2ANa_H3foRRw4n0rA0bX-2YQ/edit?usp=sharing">Slides from today</li>
-                        <li><a href="https://codepen.io/oilstel/pen/eYNJdEr?editors=1100">Flexbox demo</li>
-                        <li><a href="https://codepen.io/oilstel/pen/NWqxOBL?editors=1100">Display and position demo</li>
-                        <li><a href="https://codepen.io/oilstel/pen/bGdEzOx?editors=1100">Pseudo selectors demo</li>
+                        <li><a href="https://docs.google.com/presentation/d/10Y6eYb-F9pYZvnJ9T4k2ANa_H3foRRw4n0rA0bX-2YQ/edit?usp=sharing">Slides from today</a></li>
+                        <li><a href="https://codepen.io/oilstel/pen/eYNJdEr?editors=1100">Flexbox demo</a></li>
+                        <li><a href="https://codepen.io/oilstel/pen/NWqxOBL?editors=1100">Display and position demo</a></li>
+                        <li><a href="https://codepen.io/oilstel/pen/bGdEzOx?editors=1100">Pseudo selectors demo</a></li>
                     </ul>
                 </section>
 
