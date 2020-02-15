@@ -54,21 +54,25 @@
 
                         <ul>
                             <li>How will users know that an event falls on a particular day? You could convey this through basic HTML or CSS pseudo-elements like <code>::before</code> or <code>::after</code>. Experiment with CSS shapes. Please don't use images or found icons to do this.</li>
-                            <li>The calendar should use CSS grid and only scroll on the Y axis. How can you structure your grid layout using <code>repeat</code> and <code>minmax</code> so that it works seamlessly on desktop and mobile?</li>
+                            <li>The calendar should be responsive and only scroll on the Y axis. How can you structure your grid layout using <code>repeat</code>, <code>minmax</code>, and @media queries so that it works seamlessly on desktop and mobile?</li>
                         </ul>
         
-                        <p><span class="important">By the end of the course your calendar should have at least 30 subpages.</span></p>
+                        <p><span class="important">By the end of the course your calendar should have at least 20 subpages.</span></p>
         
                         <h3>Code & Resources</h3>
+
+                        <p>
+                            <a href="https://www.are.na/laurel-schwulst/websites-as-calendars">A channel of example calendars we looked at in class.</a>
+                        </p>
         
                         <p>
-                            <a href="https://www.youtube.com/watch?v=tFKrK4eAiUQ">Easy Layouts with CSS Grid by Jen Simmons</a><br />
+                            <a href="https://www.youtube.com/watch?v=tFKrK4eAiUQ">Easy Layouts with CSS Grid by Jen Simmons</a>
                         </p>
 
                         <pre>grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))</pre>
         
                         <p>
-                            <a href="https://www.youtube.com/watch?v=2zxWEeBkjk0">Auto-fit vs auto-fill by Rachel Andrew</a><br />
+                            <a href="https://www.youtube.com/watch?v=2zxWEeBkjk0">Auto-fit vs auto-fill by Rachel Andrew</a>
                         </p>
 
                         <pre>grid-template-columns: repeat(auto-fill, minmax(50px, 1fr))</pre>
