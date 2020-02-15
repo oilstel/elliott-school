@@ -62,7 +62,7 @@
                         <h3>Code & Resources</h3>
 
                         <p>
-                            <a href="https://www.are.na/laurel-schwulst/websites-as-calendars">A channel of example calendars we looked at in class.</a>
+                            <a href="https://www.are.na/laurel-schwulst/websites-as-calendars">A channel</a> of example calendars we looked at in class.
                         </p>
         
                         <p>
