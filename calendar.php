@@ -105,22 +105,20 @@
                     <h3>Day 4 (2/14)</h3>
 
                     <ul>
-                        <li>We will look at/discuss the calendars we made. Please put them on Github.</li>
+                        <li>I will meet with you all about your calendar assignments. Please put them on Github.</li>
                         <li>Add your calendar urls to <a href="https://paper.dropbox.com/doc/Calendars--AuUfdJOYIQZyqO8QYIz748AzAQ-R3qxPgrkQpgaAPk5z0zpj">this doc</a></li>
-                        <li>CSS: Media queries</li>
-                        <li>Introduce <a href="./assignments.php#3">Assignment 3</a> (2 Screens)</li>
+                        <li>HTML Lecture: Forms & how <a href="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Lenticular_Cloud_in_Wyoming_0034b.jpg/2560px-Lenticular_Cloud_in_Wyoming_0034b.jpg">servers</a> work!</li>
+                        <li>CSS Lecture: Flexbox, display, position, pseudo selectors</li>
                     </ul>
 
                     <ul class="next-week">
-                        <li class="hw">Add media queries to your calendar to make them responsive</li>
-                        <li class="hw">Start on <a href="./assignments.php#3">Assignment 3</a>. You should be able to explain concept and show actual code next week.</li>
-                        <li class="assignment"><a href="./assignments.php#3">Assignment 3</a> due on 2/28</li>
+                        <li class="hw">Continue working on your calendars to make them responsive. You will be graded on how your calendars work across screen sizes. Have your calendars in <a href="https://paper.dropbox.com/doc/Calendars--AuUfdJOYIQZyqO8QYIz748AzAQ-R3qxPgrkQpgaAPk5z0zpj">this doc</a> before the critique next class.</li>
                     </ul>
 
                     <h3>Resources</h3>
 
                     <ul>
-                        <li><a href="https://docs.google.com/presentation/d/10Y6eYb-F9pYZvnJ9T4k2ANa_H3foRRw4n0rA0bX-2YQ/edit?usp=sharing">Slides from today</a></li>
+                        <li><a href="https://docs.google.com/presentation/d/10Y6eYb-F9pYZvnJ9T4k2ANa_H3foRRw4n0rA0bX-2YQ/edit?usp=sharing">Slides (Flexbox, display, position, pseudo selectors) from today</a></li>
                         <li><a href="https://codepen.io/oilstel/pen/eYNJdEr?editors=1100">Flexbox demo</a></li>
                         <li><a href="https://codepen.io/oilstel/pen/NWqxOBL?editors=1100">Display and position demo</a></li>
                         <li><a href="https://codepen.io/oilstel/pen/bGdEzOx?editors=1100">Pseudo selectors demo</a></li>
@@ -131,8 +129,12 @@
                     <h3>Day 5 (2/21)</h3>
 
                     <ul>
-                        <li>In-class work on <a href="./assignments.php#3">Assignment 3</a>.</li>
-                        <li>I will try to meet with you all about your projects so you should have some code to show me by this class.</li>
+                        <li>Calendars critique. You will have 5 minutes to briefly explain your concept. Mention one thing you want to work on and one thing you are happy with.</li>
+                        <li>Lecture: Debugging, web inspector</li>
+                    </ul>
+
+                    <ul class="next-week">
+                        <li class="hw">Create a watermark SVG logo for our next assignment.</li>
                     </ul>
 
                 </section>
@@ -141,12 +143,8 @@
                     <h3>Day 6 (2/28)</h3>
 
                     <ul>
-                        <li>We will be showing/critiquing our <a href="./assignments.php#3">Assignment 3</a> sites.</li>
-                        <li>Explain watermark homework</li>
-                    </ul>
-
-                    <ul class="next-week">
-                        <li class="hw">Create a watermark SVG logo for our next assignment.</li>
+                        <li>Introduce <a href="./assignments.php#3">Assignment 3</a> (2 Screens)</li>
+                        <li>In-class work on <a href="./assignments.php#3">Assignment 3</a>.</li>
                     </ul>
                 </section>
 
@@ -154,8 +152,10 @@
                     <h3>Day 7 (3/6)</h3>
 
                     <ul>
-                        <li>JavaScript: Variables, arrays, objects, functions, timing</li>
-                        <li>Introduce next <a href="./assignments.php#4">Assignment 4</a> (Blurry Story)</li>
+                        <li>We will be showing/critiquing our <a href="./assignments.php#3">Assignment 3</a> sites.</li>
+                        <li>Explain watermark homework</li>
+                        <!-- <li>JavaScript: Variables, arrays, objects, functions, timing</li>
+                        <li>Introduce next <a href="./assignments.php#4">Assignment 4</a> (Blurry Story)</li> -->
                     </ul>
 
                     <ul class="next-week">
