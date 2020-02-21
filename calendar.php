@@ -129,12 +129,14 @@
                     <h3>Day 5 (2/21)</h3>
 
                     <ul>
+                        <li>Introduce <a href="./assignments.php#3">2 Screens assignment</a></li>
                         <li>Calendars critique. You will have 5 minutes to briefly explain your concept. Mention one thing you want to work on and one thing you are happy with.</li>
                         <li>Lecture: Debugging, web inspector</li>
                     </ul>
 
                     <ul class="next-week">
-                        <li class="hw">Create a watermark SVG logo for our next assignment.</li>
+                        <!-- <li class="hw">Create a watermark SVG logo for our next assignment.</li> -->
+                        <li class="hw"><a href="./assignments.php#3">2 screens</a> assignment is due next week (2/28). Place your Github repo url in <a href="https://paper.dropbox.com/doc/2-Screens--AuyGmYO8DL~83xpUPXXqquNsAQ-q2hPZin3YU2tMxjrAYf1b">this doc</a> before 2/28 for credit.</li>
                     </ul>
 
                 </section>

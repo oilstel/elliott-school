@@ -92,6 +92,8 @@
 
                         <p><em>Example: a website that displays images on mobile and text on desktop. Feel free to use this as a starting point but you are expected to go beyond this example.</em></p>
 
+                        <p>To receive credit for this assignment place your Github repo url in <a href="https://paper.dropbox.com/doc/2-Screens--AuyGmYO8DL~83xpUPXXqquNsAQ-q2hPZin3YU2tMxjrAYf1b">this doc</a> before next class (2/28)</p>
+
                         <h3>Code</h3>
 
 <pre>@media (max-width: 535px) {

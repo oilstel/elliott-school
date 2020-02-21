@@ -13,7 +13,7 @@
                 <section class="highlight">
                     <h2>Upcoming</h2>
 
-                    <p>Finish your <a href="assignments.php#2">calendars</a> for next class (2/21). Check the <a href="calendar">calendar</a> for more information..</p>
+                    <p><a href="./assignments.php#3">2 screens</a> assignment is due next week (2/28). Place your Github repo url in <a href="https://paper.dropbox.com/doc/2-Screens--AuyGmYO8DL~83xpUPXXqquNsAQ-q2hPZin3YU2tMxjrAYf1b">this doc</a> before 2/28 for credit.</p>
                 </section>
                 <section class="slideshow">
                     <div class="e"></div>
