@@ -96,9 +96,13 @@
 
                         <h3>Code</h3>
 
-<pre>@media (max-width: 535px) {
-    // Mobile only styles here
-}</pre>
+<pre>@media (max-width: 600px) {
+    // Mobile styles here
+}
+@media(min-width:600px) {
+    // Desktop styles here
+}
+</pre>
                     </section>
 
                     <section id="4">
