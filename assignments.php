@@ -99,7 +99,7 @@
 <pre>@media (max-width: 600px) {
     // Mobile styles here
 }
-@media(min-width:600px) {
+@media(min-width: 600px) {
     // Desktop styles here
 }
 </pre>
