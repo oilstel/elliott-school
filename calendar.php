@@ -165,8 +165,9 @@
 
                     <ul>
                         <li>We will share <a href="./assignments.php#3">Assignment 3</a> with peers.</li>
-                        <li>...</li>
                     </ul>
+
+                    <p><i>Coming soon...</i></p>
                 </section>
 
                 <!-- <section>
