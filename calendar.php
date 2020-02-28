@@ -145,8 +145,18 @@
                     <h3>Day 6 (2/28)</h3>
 
                     <ul>
-                        <li>Introduce <a href="./assignments.php#3">Assignment 3</a> (2 Screens)</li>
-                        <li>In-class work on <a href="./assignments.php#3">Assignment 3</a>.</li>
+                        <li>JavaScript Leture: Variables, arrays, functions, DOM</li>
+                    </ul>
+
+                    <ul class="next-week">
+                        <li class="assignment"><a href="./assignments.php#3">Assignment 3</a> due on 3/6</li>
+                    </ul>
+
+                    <h3>Resources</h3>
+
+                    <ul>
+                        <li><a href="https://docs.google.com/presentation/d/1aCiR9iGDDNwMtMV38r4JJmlsjiyDeBPGu3F8P2YXeCQ/edit?usp=sharing">Slides (Javscript: variables, arrays, functions, DOM) from today</a></li>
+                        <li><a href="https://codepen.io/oilstel/pen/wvadZKJ">Javascript Bird/Fish Filter Example</a></li>
                     </ul>
                 </section>
 
@@ -154,10 +164,19 @@
                     <h3>Day 7 (3/6)</h3>
 
                     <ul>
+                        <li>We will share <a href="./assignments.php#3">Assignment 3</a> with peers.</li>
+                        <li>...</li>
+                    </ul>
+                </section>
+
+                <!-- <section>
+                    <h3>Day 7 (3/6)</h3>
+
+                    <ul>
                         <li>We will be showing/critiquing our <a href="./assignments.php#3">Assignment 3</a> sites.</li>
                         <li>Explain watermark homework</li>
-                        <!-- <li>JavaScript: Variables, arrays, objects, functions, timing</li>
-                        <li>Introduce next <a href="./assignments.php#4">Assignment 4</a> (Blurry Story)</li> -->
+                        <li>JavaScript: Variables, arrays, objects, functions, timing</li>
+                        <li>Introduce next <a href="./assignments.php#4">Assignment 4</a> (Blurry Story)</li>
                     </ul>
 
                     <ul class="next-week">
@@ -237,7 +256,7 @@
                     <h3>Day 15 (5/9)</h3>
 
                     <p>Field trip TBA</p>
-                </section>
+                </section> -->
             </main>
         </div>
 
