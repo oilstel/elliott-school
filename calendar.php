@@ -166,7 +166,7 @@
                     <ul>
                         <li>We will share <a href="./assignments.php#3">Assignment 3</a> with peers.</li>
                         <li>Javscript Lecture Part 2: Timeouts, intervals, DOM manipulation continued.</li>
-                        <li>Web Writer in class workshop.</li>
+                        <li>Web Writer in class workshop. Download the workshop template <a href="./downloads/web-writer-template.zip">here</a>.</li>
                     </ul>
 
                     <ul>
