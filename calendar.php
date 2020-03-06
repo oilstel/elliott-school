@@ -145,7 +145,7 @@
                     <h3>Day 6 (2/28)</h3>
 
                     <ul>
-                        <li>JavaScript Leture: Variables, arrays, functions, DOM</li>
+                        <li>JavaScript Leture Part 1: Variables, arrays, functions, DOM</li>
                     </ul>
 
                     <ul class="next-week">
@@ -165,9 +165,14 @@
 
                     <ul>
                         <li>We will share <a href="./assignments.php#3">Assignment 3</a> with peers.</li>
+                        <li>Javscript Lecture Part 2: Timeouts, intervals, DOM manipulation continued.</li>
+                        <li>Web Writer in class workshop.</li>
                     </ul>
 
-                    <p><i>Coming soon...</i></p>
+                    <ul>
+                        <li><a href="https://docs.google.com/presentation/d/1cOTvqW81_iWDYtI0ZNkGGifI0IkZqPM4u3ayvMyrKfE/edit?usp=sharing">Slides (Javscript: timeouts, intervals, DOM manipulation) from today</a></li>
+                        <li class="hw"><a href="./assignments.php#4">Web Writer</a> assignment is due before next class (3/13). Place your Github repo url in <a href="https://paper.dropbox.com/doc/Web-Writer--Avq5655scJuXICuR0AUMldNZAQ-zNHA1QQbbbct2FaGZH8yG">this doc</a> before 3/13 for credit.</li>
+                    </ul>
                 </section>
 
                 <!-- <section>

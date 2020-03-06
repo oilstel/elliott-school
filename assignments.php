@@ -15,8 +15,9 @@
 
                         <ol id="assignments-list">
                             <li>✓ <a>HTML Profile</a></li>
-                            <li><a>Calendar</a></li>
-                            <li><a>2 Screens</a></li>
+                            <li>✓ <a>Calendar</a></li>
+                            <li>✓ <a>2 Screens</a></li>
+                            <li><a>Web Writer</a></li>
                             <li><a>Blurry Story</a></li>
                             <li><a>Print.css</a></li>
                             <!-- <li><a>Wayback Machine</a></li> -->
@@ -99,14 +100,38 @@
 <pre>@media (max-width: 600px) {
     // Mobile styles here
 }
-@media(min-width: 600px) {
+@media (min-width: 600px) {
     // Desktop styles here
 }
 </pre>
                     </section>
 
                     <section id="4">
-                        <h2>Assignment 4: Blurry Story</h2>
+                        <h2>Assignment 4: Web Writer</h2>
+    
+                        <p><em>HTML, CSS, JavaScript</em></p>
+
+                        <p>Create a sentence generator similar to the one we created in class, but this time you will generate the entire sentence yourself.</p>
+
+                        <p>Your sentence should still include 5 parts of speech: subject, preposition, modifier, object, and punctuation.</p>
+
+                        <p>Write a function to generate your random sentence and append it to the DOM every 4000 milliseconds (4 seconds). The title of your document should also update as the text on the page changes.</p>
+
+                        <p>Extra: Feel free to do this assignment in your first language or a second language. If you do this, please append English subtitles.</p>
+
+                        <h3>Code Examples</h3>
+
+<pre>document.querySelector('.sentence').innerHTML = sentence;
+
+document.title = sentence;</pre>
+                                                
+<pre>window.setInterval(function(){
+    sentenceGenerator();
+}, 4000);</pre>
+                    </section>
+
+                    <section id="5">
+                        <h2>Assignment 5: Blurry Story</h2>
     
                         <p><em>HTML, CSS, JavaScript writing on the web</em></p>
 
@@ -121,16 +146,16 @@
                         <pre>filter(blur: 20px);</pre>
                     </section>
 
-                    <section id="5">
-                        <h2>Assignment 5: Print.css</h2>
+                    <section id="6">
+                        <h2>Assignment 6: Print.css</h2>
     
                         <p><em>HTML, CSS, JavaScript writing on the web</em></p>
 
                         <p>Create a print.css stylesheet for an existing website. Work through several iterations of your design and print them as you go. You should have at least 4 prints showing your design process to show us.</p>
                     </section>
 
-                    <section id="6">
-                        <h2>Assignment 6: Gardner</h2>
+                    <section id="7">
+                        <h2>Assignment 7: Gardner</h2>
     
                         <p><em>HTML, CSS, JavaScript writing on the web</em></p>
 

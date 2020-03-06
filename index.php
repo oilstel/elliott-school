@@ -13,7 +13,7 @@
                 <section class="highlight">
                     <h2>Upcoming</h2>
 
-                    <p><a href="./assignments.php#3">2 screens</a> assignment is due next week (2/28). Place your Github repo url in <a href="https://paper.dropbox.com/doc/2-Screens--AuyGmYO8DL~83xpUPXXqquNsAQ-q2hPZin3YU2tMxjrAYf1b">this doc</a> before 2/28 for credit.</p>
+                    <p><a href="./assignments.php#4">Web Writer</a> assignment is due before next class (3/13). Place your Github repo url in <a href="https://paper.dropbox.com/doc/Web-Writer--Avq5655scJuXICuR0AUMldNZAQ-zNHA1QQbbbct2FaGZH8yG">this doc</a> before 3/13 for credit.</p>
                 </section>
                 <section class="slideshow">
                     <div class="e"></div>
