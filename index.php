@@ -13,7 +13,7 @@
                 <section class="highlight">
                     <h2>Upcoming</h2>
 
-                    <p>Our last class assignment was to create a HTML email. <a href="https://cdn.forms-content.sg-form.com/b65406ff-9162-11ea-b2d7-b2884bfc36d3">Subscribe</a> to our class email newsletter to receive our emails during the week of May 11th.</p>
+                    <p>Our last class assignment was to create a HTML email. <a href="/subscribe.html">Subscribe</a> to our class email newsletter to receive our emails during the week of May 11th.</p>
                 </section>
                 <section class="slideshow">
                     <div class="e"></div>
