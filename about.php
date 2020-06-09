@@ -33,6 +33,12 @@
                     </ul>
 
                 </section>
+                <section>
+                    <h2>Credits</h2>
+
+                    <p>Logo designed by Laurel Schwulst, <a href="http://beautiful-company.com">Beautiful Company</a>.</p>
+
+                </section>
             </main>
 
             <script src="./js/text.js" type="text/javascript"></script>
